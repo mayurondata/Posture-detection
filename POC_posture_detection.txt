@@ -1,0 +1,7 @@
+please add all the relevent material related to the project.
+
+
+how to merge two codes in order to view both logic into a single camera...
+improving documentations..
+adding more exercises 
+maybe deploy the app if time permits...
